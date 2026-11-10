@@ -37,9 +37,9 @@ The program generates a graph showing cumulative profit or loss across the tourn
 ## Technologies Used
 
 - Python
-- Requests — retrieving webpage content
-- BeautifulSoup — extracting HTML data
-- Matplotlib — data visualisation
+- Requests (retrieving webpage content)
+- BeautifulSoup (extracting HTML data)
+- Matplotlib (data visualisation)
 
 ## How to Run
 
