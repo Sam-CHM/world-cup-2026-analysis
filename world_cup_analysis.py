@@ -146,4 +146,4 @@ plt.text(x='START', y=min(ymoney)-100, s='MIN', fontdict = font3, color='red')
 #plt.tight_layout()
 #plt.savefig("results.png", dpi=300, bbox_inches="tight")
 
-#plt.show()
+plt.show()
