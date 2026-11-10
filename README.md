@@ -1,4 +1,4 @@
-# 2026 FIFA World Cup — Betting Strategy Analysis
+# 2026 FIFA World Cup: Flat-Betting Strategy Analysis
 
 ## Overview
 
@@ -68,3 +68,5 @@ The program retrieves match information, calculates the simulated returns and ge
 ## Disclaimer
 
 This is an exploratory Python data-analysis project, not a predictive machine-learning model or a recommendation to gamble.
+
+This README was created with the assistance of AI.
